@@ -25,7 +25,6 @@ class TodayViewController: UIViewController {
             } else {
                 self?.textLabel.text = "Ой все ошибочка"
             }
-            
         }
     }
 

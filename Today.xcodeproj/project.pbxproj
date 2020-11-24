@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F8E0DBF256D40F7005FA091 /* TodayListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8E0DBE256D40F7005FA091 /* TodayListViewController.swift */; };
 		1FB56283256BBE8C00D3FA96 /* TodayService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB56282256BBE8C00D3FA96 /* TodayService.swift */; };
 		1FF135872566A520007E63D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF135862566A520007E63D2 /* AppDelegate.swift */; };
 		1FF135892566A520007E63D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF135882566A520007E63D2 /* SceneDelegate.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F8E0DBE256D40F7005FA091 /* TodayListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayListViewController.swift; sourceTree = "<group>"; };
 		1FB56282256BBE8C00D3FA96 /* TodayService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayService.swift; sourceTree = "<group>"; };
 		1FF135832566A520007E63D2 /* Today.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Today.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF135862566A520007E63D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				1FF135882566A520007E63D2 /* SceneDelegate.swift */,
 				1FF1358A2566A520007E63D2 /* TodayViewController.swift */,
 				1FB56282256BBE8C00D3FA96 /* TodayService.swift */,
+				1F8E0DBE256D40F7005FA091 /* TodayListViewController.swift */,
 				1FF1358C2566A520007E63D2 /* Main.storyboard */,
 				1FF1358F2566A524007E63D2 /* Assets.xcassets */,
 				1FF135912566A524007E63D2 /* LaunchScreen.storyboard */,
@@ -266,6 +269,7 @@
 				1FF135872566A520007E63D2 /* AppDelegate.swift in Sources */,
 				1FF135892566A520007E63D2 /* SceneDelegate.swift in Sources */,
 				1FB56283256BBE8C00D3FA96 /* TodayService.swift in Sources */,
+				1F8E0DBF256D40F7005FA091 /* TodayListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
